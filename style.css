@@ -29,7 +29,7 @@ a{
 
 @media screen and (max-width: 800px) {
   body{
-    width: 15vw;
+    width: 80%;
     scale: 0.3;
     padding-bottom: 0.5vw;
   }
