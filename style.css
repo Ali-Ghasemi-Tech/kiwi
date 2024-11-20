@@ -29,9 +29,17 @@ a{
 
 @media screen and (max-width: 800px) {
   body{
-    width: 2vw;
-    scale: 0.2;
+    width: 15vw;
+    scale: 0.3;
     padding-bottom: 0.5vw;
+  }
+  a{
+    font-size: 25vw;
+  }
+  div{
+    font-size: 25vw;
+    display: flex;
+    gap: 2vw;
   }
 
 }
