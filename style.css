@@ -4,7 +4,7 @@ body{
   height: auto;
   justify-content: center;
   background-color: rgb(240, 240, 240);
-  width: auto;
+  width: 60%;
   margin: auto;
   align-items: center;
   gap: 1vw;
@@ -29,7 +29,9 @@ a{
 
 @media screen and (max-width: 800px) {
   body{
-    scale: 0.4;
+    width: 2vw;
+    scale: 0.2;
     padding-bottom: 0.5vw;
   }
+
 }
