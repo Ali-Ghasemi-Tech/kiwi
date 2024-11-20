@@ -34,10 +34,10 @@ a{
     padding-bottom: 0.5vw;
   }
   
-  a{
-    font-size: 15vw;
-  }
+
   div{
+    direction: rtl;
+    width: 100%;
     font-size: 15vw;
     display: flex;
     gap: 2vw;
