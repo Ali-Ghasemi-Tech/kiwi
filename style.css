@@ -1,0 +1,21 @@
+body{
+  display: flex;
+  flex-direction: column;
+  height: auto;
+  justify-content: center;
+  background-color: rgb(240, 240, 240);
+  width: auto;
+  margin: auto;
+  align-items: center;
+  gap: 1vw;
+  padding-bottom: 2vw;
+}
+
+image{
+  width: 60%;
+}
+a{
+  width: auto;
+  text-decoration: none;
+  color: green;
+}
